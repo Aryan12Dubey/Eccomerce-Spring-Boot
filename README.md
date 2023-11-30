@@ -1,2 +1,2 @@
-# Eccomerce-Spring-Boot
+# Ecommerce-Spring-Boot
 This is Eccomerce website using Spring Boot 
